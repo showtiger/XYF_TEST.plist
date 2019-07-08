@@ -33,13 +33,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.TengYunFu.ly</string>
+                <string>com.xingyifu.zz</string>
                 <key>bundle-version</key>
                 <string>0.0.3</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>腾云付</string>
+                <string>星易付</string>
             </dict>
         </dict>
     </array>
